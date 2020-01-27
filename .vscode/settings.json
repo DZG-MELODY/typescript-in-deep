@@ -1,0 +1,10 @@
+{
+  "eslint.format.enable": true,
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "typescript.validate.enable": true,
+  "javascript.validate.enable": false
+}

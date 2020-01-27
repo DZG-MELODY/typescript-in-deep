@@ -1,0 +1,30 @@
+{
+  "name": "typescript-in-deep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DZG-MELODY/typescript-in-deep.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "dzg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DZG-MELODY/typescript-in-deep/issues"
+  },
+  "homepage": "https://github.com/DZG-MELODY/typescript-in-deep#readme",
+  "devDependencies": {
+    "@types/node": "^13.1.7",
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "typescript": "^3.7.4"
+  }
+}
